@@ -163,7 +163,7 @@ git add Readme.md
 git add .
 ```
 
-## Reset
+## Reset (test)
 
 Reset allows you to move Staged changes to be unstaged.
 This is useful when you to revert all files not to be not commited
